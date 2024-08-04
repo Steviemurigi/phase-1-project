@@ -16,6 +16,7 @@ The data for the server side is hosted in a db.json file.
 Challenges expected to be faced.
 
 Performance Optimization: Guaranteeing that the application operates quickly and responsively.
+
 User Interface Design: Developing an intuitive and adaptable layout that delivers a smooth user experience on various devices.
 
 How I am meeting requirements for the project.
