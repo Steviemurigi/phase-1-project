@@ -1,4 +1,4 @@
-Adopt-a-Pal: Connecting Loving Homes with Deserving Dogs
+#Adopt-a-Pal: Connecting Loving Homes with Deserving Dogs
 
 Adopt-a-Pal is a user-friendly dog adoption platform that streamlines the process of finding forever homes for rescue dogs. Our site features an extensive database of adoptable dogs, allowing users to easily search by breed and view detailed profiles complete with photos and descriptions.
 
